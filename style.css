@@ -138,7 +138,6 @@ body {
 
 .red {
   border: 1.5px solid hsl(0, 100%, 74%);
-  color: hsl(0, 100%, 74%);
 }
 
 @media (hover: hover) and (pointer: fine) {

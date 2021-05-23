@@ -52,7 +52,10 @@ ready(() => {
         document.querySelector(".error3").style.display = "none";
         document.querySelector(".errorIcon3").style.display = "none";
       } else {
-        document.getElementById("email").classList.add("red");
+        document
+          .getElementById("email")
+          .document.getElementById("email")
+          .classList.add("red");
         document.querySelector(".error3").style.display = "block";
         document.querySelector(".errorIcon3").style.display = "block";
         document.querySelector(".error3").textContent =
